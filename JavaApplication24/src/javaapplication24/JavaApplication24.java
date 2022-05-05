@@ -16,6 +16,7 @@ public class JavaApplication24 {
     public static void main(String[] args) {
         System.out.println("Send Dudes!");
         System.out.println("Re bro ase isuxo re bro");
+        System.out.println("Skuliiiiiiiiiii");
     }
     
 }
